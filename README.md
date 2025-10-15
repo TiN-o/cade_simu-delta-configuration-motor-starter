@@ -22,7 +22,7 @@ To simulate a motor starter circuit that:
 ![Delta Motor Starter Circuit](Screenshot/delta_configuration.png)
 
 ## 🎥 Simulation Demo
-[▶️ Watch Delta Motor Starter Simulation]((https://drive.google.com/file/d/1CYj9BlhO0kmHxpTe_on4YV5Hw7RbqNjM/view?usp=sharing))
+[▶️ Watch Delta Motor Starter Simulation](https://drive.google.com/file/d/1CYj9BlhO0kmHxpTe_on4YV5Hw7RbqNjM/view?usp=sharing)
 
 > This video demonstrates delta configuration and the motor protection logic implemented in CADe_SIMU.
 
