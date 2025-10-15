@@ -19,12 +19,12 @@ To simulate a motor starter circuit that:
 - **Stop Button** deactivates all contactors and resets the system
 
 ## 📸 Screenshot
-![Delta Motor Starter Circuit](Screenshots/delta_configuration.png)
+![Delta Motor Starter Circuit](Screenshot/delta_configuration.png)
 
 ## 🎥 Simulation Demo
 [▶️ Watch Delta Motor Starter Simulation]((https://drive.google.com/file/d/1CYj9BlhO0kmHxpTe_on4YV5Hw7RbqNjM/view?usp=sharing))
 
-> This video demonstrates the timed transition from star to delta configuration and the motor protection logic implemented in CADe_SIMU.
+> This video demonstrates delta configuration and the motor protection logic implemented in CADe_SIMU.
 
 ## 🧠 Learning Outcomes
 - Understanding of star-delta motor starting principles
